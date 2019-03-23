@@ -1,6 +1,12 @@
 # 03 [SCRIPT]
 # Three’s a Charm. Write a script of you choice.
 
+# This script looks for a keyword tag in the first line of each file and colors the output to match the subject PDF.
+# To use, be sure to include the keyword in the first line of the file.
+# Example:
+#	01 [COMMAND]
+# to run properly, execute from the root directory with sh scripts/03.sh
+
 RED='\e[38;5;197m'
 BLUE='\e[38;5;38m'
 GREEN='\e[38;5;76m'

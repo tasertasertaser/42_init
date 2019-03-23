@@ -1,0 +1,5 @@
+# 15 [COMMAND]
+# Find the command that kills the background command’s process
+
+	kill -$(pgrep tail)
+

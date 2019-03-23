@@ -1,0 +1,6 @@
+# 02 [COMMAND]
+# What command can you use to rename your system?
+
+	hostname [new_hostname]
+	# this only works if you are a root user. 
+

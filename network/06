@@ -1,0 +1,5 @@
+# 06 [DEDUCTION]
+# Get the complete path of the file that contains the IP address of the DNS server you’re using
+
+	To get the complete path of the file that contains the IP address of the DNS server I'm using, I would locate the resolver configuration file at /etc/resolv.conf
+

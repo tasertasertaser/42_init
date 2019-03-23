@@ -1,0 +1,5 @@
+# 12 [COMMAND]
+# Find the IP that was assigned to you by dhcp (Dynamic Host Configuration Protocal) server
+
+	ifconfig en0 inet | grep -E '\d+\.\d+\.\d+\.\d '
+

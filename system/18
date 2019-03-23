@@ -1,0 +1,6 @@
+# 18 [COMMAND]
+# Find the command that kills ssh service
+
+	sudo /etc/init.d/ssh stop
+	#alternatively sudo kill $(pgrep sshd)
+	

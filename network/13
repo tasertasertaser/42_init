@@ -1,0 +1,6 @@
+# 13 [OUTPUT]
+# Thanks to the previous question and the reverse DNS find the name of your host
+# Command used: nslookup 10.113.2.4 | egrep 'name' | sed -E 's/.* = //g'
+
+	e1z3r2p4.42.us.org.
+	

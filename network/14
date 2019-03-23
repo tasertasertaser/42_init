@@ -1,0 +1,5 @@
+# 14 [DEDUCTION]
+# What file contains the local DNS entries?
+
+The "hosts" file located in /etc
+ 

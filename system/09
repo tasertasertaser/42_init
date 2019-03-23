@@ -1,0 +1,6 @@
+# 09 [COMMAND]
+# What command lets you know who is connected to the System?
+
+	users
+	# who -a also lists the users but gives more information
+

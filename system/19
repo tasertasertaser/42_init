@@ -1,0 +1,6 @@
+# 19 [COMMAND]
+# List all services which are started at boot time and name this kind of services
+
+	service --status-all
+	I was unable to find consistent terminology for this kind of service, but some terms I saw used include: upstart services, startup services, startup daemons, and boot services. The first of these to run on startup is called init, which is the ancestor of all other processes.
+

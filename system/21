@@ -1,0 +1,6 @@
+# 21 [COMMAND]
+# List all real users on the VM
+
+	awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd
+	# Human users have UIDs beginning at 1000. Here, awk uses that fact to filter the passwd file.
+

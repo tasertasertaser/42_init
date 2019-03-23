@@ -1,0 +1,5 @@
+# 11 [DEDUCTION]
+# Use the output of the previous command to find the name and IP address of the device that makes the link between you (local network) and the outside world
+
+	The NAT (Network Address Translation) is what translate the private address in the internal network into routable addresses before packets are forwarded onto another network - thereby making the connection to the "outside world."
+

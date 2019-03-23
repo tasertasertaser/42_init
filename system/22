@@ -1,0 +1,5 @@
+# 22 [COMMAND]
+# Find the command that add a new local user
+
+	useradd [username]
+

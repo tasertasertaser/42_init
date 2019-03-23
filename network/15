@@ -1,0 +1,5 @@
+# 15 [DEDUCTION]
+# Make the intra.42.fr address reroute to 46.19.122.85
+
+	To reroute a url to a specific IP, open the "hosts" file in /etc in a text editor and add the line "[IP address] [url]". Example: 46.19.122.85	intra.42.fr
+	 

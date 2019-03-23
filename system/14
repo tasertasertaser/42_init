@@ -1,0 +1,5 @@
+# 14 [COMMAND]
+# Run the ‘tail -f /var/log/syslog‘ command in background
+
+	sudo tail -f /var/log/syslog &
+

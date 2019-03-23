@@ -1,0 +1,6 @@
+# 09 [OUTPUT]
+# Find the external IP of 42.fr
+# command used: ping 42.fr -c 1 | grep "from" | cut -d " " -f 4
+
+	result: 163.172.250.11
+

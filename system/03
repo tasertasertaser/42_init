@@ -1,0 +1,5 @@
+# 03 [DEDUCTION]
+# What file has to be modified to make it permanent?
+	
+	The 'hostname' file located in /etc.
+

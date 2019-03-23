@@ -1,0 +1,6 @@
+# 05 [COMMAND]
+# Name the command that determines the state of the SSH service.
+
+	service ssh status
+	#alternatively: /etc/init.d/ssh status
+

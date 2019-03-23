@@ -1,0 +1,6 @@
+# 20 [COMMAND]
+# List all existing users on the VM
+
+	awk -F':' '{ print $1}' /etc/passwd
+	# the /etc/passwd file lists every username, as well as some other information. Here, I used awk to trim down the output to list only the names.
+	

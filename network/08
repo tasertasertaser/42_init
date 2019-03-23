@@ -1,0 +1,5 @@
+# 08 [DEDUCTION]
+# Find the provider of slash16.org
+
+	To find the provider of slash16.org, use the command whois slash16.org and find the provider in the resulting output (Amazon Web Services, because of the 'AWS' in the "Name Server" line)
+
